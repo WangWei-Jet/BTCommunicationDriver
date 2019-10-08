@@ -1,0 +1,7 @@
+/bin
+/gen
+/.settings
+/target
+/jre*
+/.classpath
+/.project
